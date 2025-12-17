@@ -1,28 +1,20 @@
-# 📰 Notícias Cidade
+# Site Notícias Cidade 📰
 
-Projeto fictício de um portal de notícias desenvolvido para fins de estudo e portfólio.
+Projeto de site de notícias desenvolvido para praticar estruturação de páginas,
+layout clássico e organização de conteúdo com HTML e CSS.
 
-## 📌 Sobre o projeto
-O **Notícias Cidade** é um site estático criado com HTML e CSS, simulando um portal de notícias com seções como:
-- Home
-- Brasil
-- Internacional
-- Economia
-- Saúde
-- Ciência
-- Fotos
-
-Todo o conteúdo é fictício e foi criado apenas para aprendizado.
+## 🎯 Objetivo do projeto
+Aplicar conceitos fundamentais de HTML e CSS na construção de um site
+com múltiplas páginas e estrutura visual organizada.
 
 ## 🛠️ Tecnologias utilizadas
 - HTML5
 - CSS3
-- Layout em colunas
-- Galeria de fotos com lightbox em CSS
-- GitHub Pages
 
-## 🌐 Acesse o projeto online
-👉 [https://jonathan-1-lima.github.io/site-noticias/]
+## 📐 Funcionalidades
+- Layout de portal de notícias
+- Organização de conteúdo por seções
+- Navegação entre páginas
+- Estrutura clássica de sites informativos
 
-## 👨‍💻 Autor
-Jonathan Carvalho Lima
+## 📁 Estrutura do projeto
